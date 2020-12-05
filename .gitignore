@@ -1,0 +1,9 @@
+#Wildcard to ignore certain files with a certain extension(e.g ending with .mp4)
+#Ignore all these files and directions below.
+#aol!!
+
+*.dat
+5_BallTrackingwithOpenCV/ball_tracking_example.mp4
+8_facialLandMarks/shape_predictor_68_face_landmarks.dat
+9_detectingBlinks/shape_predictor_68_face_landmarks.dat
+10_drowsinessDetection/shape_predictor_68_face_landmarks.dat
