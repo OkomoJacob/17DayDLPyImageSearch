@@ -1,0 +1,40 @@
+How will Computer Vision and Deep Learning change YOUR life?
+
+Do you remember the first time you coded something of your own?
+
+Do you remember feeling the adrenaline rush through your body, as you typed those lines and saw the output? Or that sense of power you felt when you realized that you could make your computer do just about anything? 
+
+Can you still recall that rush when you first opened up vim or emacs and started writing that first line of a new program?
+
+Back then, what were you thinking about doing with your life? Did you dream of sitting in an office, debugging thousands of lines of code?
+
+Or did you dream a little bigger than that?
+
+What got your started in the coding world? Why were you drawn to it?
+
+Today’s lesson is going to be a bit different. Instead of teaching you a particular computer vision technique like I normally do, I’m instead going to go a bit “meta” and discuss something arguably far more important — the “why” that is driving you to study computer vision and deep learning.
+
+If you want to be truly successful at something — anything, really — you have to understand what’s motivating you. If the only thing pushing you to get out of bed in the morning is, “I need a paycheck”, then it really doesn’t matter what you do. 
+
+And on days when it’s raining, or you’re tired, or the waves are breaking perfectly at the beach, or it’s just a day that ends in “y,” you’ll have a hard time forcing yourself to your desk. 
+
+On the other hand, if you know what’s driving you, what’s pushing you, what you really want to do — well, then, it’s pretty easy to keep showing up. Even when you encounter obstacles — problems that are hard to solve, co-workers who annoy you, deadlines that force you to stay late... 
+
+...if you know why you’re doing the work, it’s a lot easier to keep doing it. 
+
+For me, back in late high school/early college, the concepts in computer vision —  face detection, image recognition, machine learning — fascinated me, but I I didn't have that "why" to help ensure I kept studying it.
+
+Until the day I sat in a computer vision course in college, and the professor had us dump out the change in our pockets.
+
+There wasn’t much — we were college students, after all — but I took the nickels, dimes, and quarters out of my pocket, dumped them on a table, and took a photo of it using my phone.
+
+And just a few minutes later, the professor taught us how to write a Python script (using OpenCV, of course) to apply blurring, edge detection, and contour extraction, to not only count the number of coins in the image, but determine their monetary value as well!
+
+Not only was I counting coins, I could tell you what each coin was!
+
+I didn’t know it at that moment, but I’d found my WHY: I love using computer vision (and eventually deep learning) to solve real-world problems. 
+
+In the final phase of this crash course, we’ll be delving into some truly advanced algorithms and seeing how those techniques can help form world-changing solutions.
+
+This stuff excites me — and I hope that it excites you, too. If you’re willing to put in the work, computer vision and deep learning can change your career trajectory — and your entire life. 
+
