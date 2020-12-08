@@ -7,3 +7,4 @@
 8_facialLandMarks/shape_predictor_68_face_landmarks.dat
 9_detectingBlinks/shape_predictor_68_face_landmarks.dat
 10_drowsinessDetection/shape_predictor_68_face_landmarks.dat
+12_simpleNeuralNetwork/kaggle_dogs_vs_cats/

@@ -38,3 +38,13 @@ In the final phase of this crash course, we’ll be delving into some truly adva
 
 This stuff excites me — and I hope that it excites you, too. If you’re willing to put in the work, computer vision and deep learning can change your career trajectory — and your entire life. 
 
+Just ask David Austin, who:
+Used the techniques he started learning in the PyImageSearch Gurus course
+Along with the Deep Learning for Computer Vision with Python book
+...to help him secure first place — and $25,000 — in Kaggle’s most popular image classification competition of all time!
+
+What are you dreaming about doing with computer vision and deep learning? How will your ideas change your life — and how will you change the world?
+
+I really want to know what’s motivating you in your journey, so please hit reply and let me know! I read every single reply, and knowing your goals helps me create the best possible content and tutorials to help you learn what you need to know. 
+
+
