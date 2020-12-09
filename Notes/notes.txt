@@ -1,0 +1,2 @@
+In each module, i was taking notes and downloading them as .mhtml in my local browser.
+-Sample notes have since been shared in each module as downloaded directly from chrome browser.
