@@ -9,4 +9,6 @@
 10_drowsinessDetection/shape_predictor_68_face_landmarks.dat
 12_simpleNeuralNetwork/kaggle_dogs_vs_cats/
 13_usingCNNToClassifyObjects/bvlc_googlenet.caffemodel
-14_createCustomDLDatasets/dataset
+14_createCustomDLDatasets/dataset/
+15_keras&CNN/dataset/
+15_keras&CNN/pokedex.model
